@@ -1,0 +1,9 @@
+# Do not commit local backups
+*.json
+planner-backup-*.json
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
